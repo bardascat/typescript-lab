@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "none",
+        "target": "ES5"
+    },
+    "files": [
+        "app.ts",
+        "app.controller.ts"
+    ],
+    "types":[
+      "angular",
+      "angular-ui-router"
+    ]
+}
